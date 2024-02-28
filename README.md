@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hevertonn&label=Profile%20views&color=0e75b6&style=flat" alt="hevertonn" /> </p>
 
-- 💬 Ask me about **NodeJS, BunJS**
+- 💬 Ask me about **Node.JS, Rust**
 - 📫 How to reach me **hb.hevertonborges@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
