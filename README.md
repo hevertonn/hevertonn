@@ -1,17 +1,41 @@
-<h1 align="center">Hi 👋, I'm Heverton</h1>
-<h3 align="center">A backend developer from Brazil</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hevertonn&label=Profile%20views&color=0e75b6&style=flat" alt="hevertonn" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hevertonn&label=Profile%20views&color=0e75b6&style=flat" alt="hevertonn" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=4500&pause=1000&color=31748F&center=true&vCenter=true&random=false&width=435&lines=Hello+World!%F0%9F%91%8B;I'm+Heverton!"/>
+</h1>
 
-- 💬 Ask me about **Node.JS, Rust**
-- 📫 How to reach me **hb.hevertonborges@gmail.com**
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+ 🌱 I’m currently learning **Rust**
+ 
+ 💬 Ask me about **Node.JS, Rust**
+ 
+</div>
+
+<div align="center">
+<a href="mailto:hb.hevertonborges@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
+
+<hr/>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express,git,js,linux,nginx,nodejs,postgresql,redis,rust,typescript" />
+</div>
+
+<hr/>
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hevertonn&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="hevertonn" width="300" /></p>
 
