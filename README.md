@@ -46,6 +46,6 @@
 <div align="center">
   <h2>My Stats</h2>
   <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hevertonn&show_icons=true&locale=en&theme=rose_pine" alt="hevertonn" height="168" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hevertonn&theme=rose_pine" alt="hevertonn" height="168" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hevertonn&show_icons=true&locale=en&theme=rose_pine" alt="hevertonn" height="165" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hevertonn&theme=rose_pine" alt="hevertonn" height="165" />
 </div>
