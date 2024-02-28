@@ -6,7 +6,6 @@
 
 <div align="center">
   <h3 align="center">A passionate backend developer from Brazil</h3>
-
   <br/>
   
  🌱 I’m currently learning **Rust**
@@ -29,9 +28,7 @@
 
 <div align="center">
   <h2>Languages and Tools:</h2>
-
   <br/>
-  
   <img src="https://skillicons.dev/icons?i=express,git,js,linux,nginx,nodejs,postgresql,redis,rust,typescript" />
 </div>
 
@@ -41,7 +38,6 @@
   <h2>My Contributions</h2>
   <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hevertonn/hevertonn/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/>
 </div>
 
@@ -50,7 +46,6 @@
 <div align="center">
   <h2>My Stats</h2>
   <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hevertonn&show_icons=true&locale=en&theme=rose_pine" alt="hevertonn" heiht="140" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hevertonn&theme=rose_pine" alt="hevertonn" heiht="140" />
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hevertonn&show_icons=true&locale=en&theme=rose_pine" alt="hevertonn" heiht="100" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hevertonn&theme=rose_pine" alt="hevertonn" heiht="100" />
 </div>
