@@ -5,15 +5,11 @@
 </h1>
 
 <div align="center">
-  <h3 align="center">A passionate backend developer from Brazil</h3>
-  <br/>
+  <h3 align="center">Only a backend developer from Brazil</h3>
+<br/>
   
  🌱 I’m currently learning **Rust**
- 
- 💬 Ask me about **Node.JS, Rust**
- 
 </div>
-
 
 <div align="center">
 <a href="mailto:hb.hevertonborges@gmail.com">
@@ -29,7 +25,7 @@
 <div align="center">
   <h2>Languages and Tools:</h2>
   <br/>
-  <img src="https://skillicons.dev/icons?i=express,git,js,linux,nginx,nodejs,postgresql,redis,rust,typescript" />
+  <img src="https://skillicons.dev/icons?i=express,git,js,linux,nodejs,postgresql,rust,typescript" />
 </div>
 
 <hr/>
