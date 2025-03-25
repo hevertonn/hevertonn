@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <h3 align="center">Only a backend developer from Brazil</h3>
+  <h3 align="center">Just a computer science student from Brazil</h3>
 <br/>
   
  🌱 I’m currently learning **Rust**
