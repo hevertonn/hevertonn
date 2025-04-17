@@ -7,8 +7,6 @@
 <div align="center">
   <h3 align="center">Just a computer science student from Brazil</h3>
 <br/>
-  
- 🌱 I’m currently learning **Rust**
 </div>
 
 <div align="center">
@@ -18,14 +16,6 @@
 <a href="https://www.linkedin.com/in/hevertonn/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>Languages and Tools:</h2>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=express,git,js,linux,nodejs,postgresql,rust,typescript" />
 </div>
 
 <hr/>
