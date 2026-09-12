@@ -30,14 +30,14 @@
   <h2>Languages and Tools</h2>
   <br>
   <p><b>Languages</b></p>
-  <img src="https://img.shields.io/badge/Rust-191724?style=for-the-badge&logo=rust&logoColor=e0def4" />
-  <img src="https://img.shields.io/badge/C-191724?style=for-the-badge&logo=c&logoColor=9ccfd8" />
-  <img src="https://img.shields.io/badge/C%2B%2B-191724?style=for-the-badge&logo=cplusplus&logoColor=c4a7e7" />
-  <img src="https://img.shields.io/badge/Haskell-191724?style=for-the-badge&logo=haskell&logoColor=f6c177" />
+  <img src="https://img.shields.io/badge/Rust-191724?style=for-the-badge&logo=rust&logoColor=e0def4" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-191724?style=for-the-badge&logo=c&logoColor=9ccfd8" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-191724?style=for-the-badge&logo=cplusplus&logoColor=c4a7e7" alt="C++" />
+  <img src="https://img.shields.io/badge/Haskell-191724?style=for-the-badge&logo=haskell&logoColor=f6c177" alt="Haskell" />
 
   <p><b>Environment and Tools</b></p>
-  <img src="https://img.shields.io/badge/Linux-191724?style=for-the-badge&logo=linux&logoColor=e0def4" />
-  <img src="https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git&logoColor=eb6f92" />
+  <img src="https://img.shields.io/badge/Linux-191724?style=for-the-badge&logo=linux&logoColor=e0def4" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git&logoColor=eb6f92" alt="Git" />
 
 </div>
 
@@ -75,11 +75,11 @@
 
   <h2>Connect with me</h2>
   <br>
-  <a href="mailto:hb.hevertonborges@gmail.com" target="blank"><img
-      src="https://img.shields.io/badge/Gmail-191724?style=for-the-badge&logo=gmail&logoColor=9ccfd8" /></a>
-  <a href="https://linkedin.com/in/hevertonn" target="blank"><img
-      src="https://img.shields.io/badge/LinkedIn-191724?style=for-the-badge&logo=linkedin&logoColor=9ccfd8" /></a>
-  <a href="https://codeforces.com/profile/heverton" target="blank"><img
-      src="https://img.shields.io/badge/Codeforces-191724?style=for-the-badge&logo=codeforces&logoColor=eb6f92" /></a>
+  <a href="mailto:hb.hevertonborges@gmail.com"><img
+      src="https://img.shields.io/badge/Gmail-191724?style=for-the-badge&logo=gmail&logoColor=9ccfd8" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/hevertonn" target="_blank" rel="noopener noreferrer"><img
+      src="https://img.shields.io/badge/LinkedIn-191724?style=for-the-badge&logo=linkedin&logoColor=9ccfd8" alt="LinkedIn" /></a>
+  <a href="https://codeforces.com/profile/heverton" target="_blank" rel="noopener noreferrer"><img
+      src="https://img.shields.io/badge/Codeforces-191724?style=for-the-badge&logo=codeforces&logoColor=eb6f92" alt="Codeforces" /></a>
 
 </div>
